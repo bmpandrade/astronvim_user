@@ -18,7 +18,9 @@ return {
   },
 
   -- Set colorscheme to use
-  colorscheme = "dracula",
+  --colorscheme = "solarized",
+  --colorscheme = "catppuccin",
+  colorscheme = "challenger_deep",
 
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {
